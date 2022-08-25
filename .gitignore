@@ -1,2 +1,3 @@
-dng-convert/*.dng
-x3f-input/*.X3F
+DNG/*.dng
+DNG/*.xmp
+RAW/*.X3F

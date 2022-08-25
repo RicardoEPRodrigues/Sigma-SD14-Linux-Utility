@@ -4,8 +4,8 @@ set -e
 set -x
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-INPUT_DIR="${DIR}/x3f-input"
-OUTPUT_DIR="${DIR}/dng-convert"
+INPUT_DIR="${DIR}/RAW"
+OUTPUT_DIR="${DIR}/DNG"
 
 COMMAND="x3f_extract"
 
